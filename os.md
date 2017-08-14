@@ -1,5 +1,5 @@
 # computer system components
-* hardware 
+* hardware - CPU, Memory, I/O Devices
 * operating system
 * application programs
 * users
